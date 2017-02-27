@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMovieList</string>
+    <string name="title_activity_custom_layout">custom_layout</string>
+</resources>
